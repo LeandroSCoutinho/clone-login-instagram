@@ -22,16 +22,18 @@ Navegue até o diretório do projeto:
 cd clone-login-instagram
 ```
 
-Abra o arquivo index.html em seu navegador.  
-Tecnologias utilizadas
-HTML
-CSS
-Flexbox
-Contribuindo
-Contribuições são sempre bem-vindas! Se você quiser contribuir com este projeto, siga os passos abaixo:
+Abra o arquivo index.html em seu navegador  
 
-Fork este repositório
-Crie uma nova branch para suas alterações: git checkout -b my-feature
-Faça suas alterações e faça commit delas: git commit -am 'Add some feature'
-Push para a branch: git push origin my-feature
-Abra um pull request para este repositório na branch main
+## Tecnologias utilizadas  
+HTML  
+CSS  
+Flexbox  
+
+## Contribuindo
+Contribuições são sempre bem-vindas! Se você quiser contribuir com este projeto, siga os passos abaixo:  
+
+Fork este repositório  
+Crie uma nova branch para suas alterações: git checkout -b my-feature  
+Faça suas alterações e faça commit delas: git commit -am 'Add some feature'  
+Push para a branch: git push origin my-feature  
+Abra um pull request para este repositório na branch main  
